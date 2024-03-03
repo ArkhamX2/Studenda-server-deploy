@@ -1,6 +1,3 @@
-[submodule "Studenda-core"]
-	path = Studenda-core
-	url = https://github.com/ArkhamX2/Studenda-core.git
 [submodule "Studenda-web"]
 	path = Studenda-web
 	url = https://github.com/ArkhamX2/Studenda-web
